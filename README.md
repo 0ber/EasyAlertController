@@ -44,6 +44,8 @@ let actionSheet = UIAlertController.actionSheet(actions: [
   .Destructive(title: "Destructive", handler: { _ in print("tap")}),
   .Cancel(title: "Cancel", handler: nil)
   ])
+  
+  presentViewController(alert, animated:true, completion:nil)
 ```
 
 ## Licence
