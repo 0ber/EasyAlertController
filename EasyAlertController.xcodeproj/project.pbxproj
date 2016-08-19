@@ -48,7 +48,7 @@
 		FA5E1A981D6791DE00CF2A9F /* EasyAlertController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EasyAlertController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA5E1A9A1D6791DE00CF2A9F /* EasyAlertController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EasyAlertController.h; sourceTree = "<group>"; };
 		FA5E1A9C1D6791DE00CF2A9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FAF94DFB1D66504200730E47 /* EasyAletrControllerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyAletrControllerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAF94DFB1D66504200730E47 /* EasyAlertControllerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyAlertControllerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF94DFE1D66504200730E47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF94E001D66504300730E47 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FAF94E031D66504300730E47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		FAF94DFC1D66504200730E47 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FAF94DFB1D66504200730E47 /* EasyAletrControllerDemo.app */,
+				FAF94DFB1D66504200730E47 /* EasyAlertControllerDemo.app */,
 				FA5E1A981D6791DE00CF2A9F /* EasyAlertController.framework */,
 			);
 			name = Products;
@@ -160,9 +160,9 @@
 			productReference = FA5E1A981D6791DE00CF2A9F /* EasyAlertController.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		FAF94DFA1D66504200730E47 /* EasyAletrControllerDemo */ = {
+		FAF94DFA1D66504200730E47 /* EasyAlertControllerDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FAF94E101D66504300730E47 /* Build configuration list for PBXNativeTarget "EasyAletrControllerDemo" */;
+			buildConfigurationList = FAF94E101D66504300730E47 /* Build configuration list for PBXNativeTarget "EasyAlertControllerDemo" */;
 			buildPhases = (
 				FAF94DF71D66504200730E47 /* Sources */,
 				FAF94DF81D66504200730E47 /* Frameworks */,
@@ -174,9 +174,9 @@
 			dependencies = (
 				FA5E1A9E1D6791DE00CF2A9F /* PBXTargetDependency */,
 			);
-			name = EasyAletrControllerDemo;
+			name = EasyAlertControllerDemo;
 			productName = EasyAletrController;
-			productReference = FAF94DFB1D66504200730E47 /* EasyAletrControllerDemo.app */;
+			productReference = FAF94DFB1D66504200730E47 /* EasyAlertControllerDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -197,7 +197,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FAF94DF61D66504200730E47 /* Build configuration list for PBXProject "EasyAletrController" */;
+			buildConfigurationList = FAF94DF61D66504200730E47 /* Build configuration list for PBXProject "EasyAlertController" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -210,7 +210,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FAF94DFA1D66504200730E47 /* EasyAletrControllerDemo */,
+				FAF94DFA1D66504200730E47 /* EasyAlertControllerDemo */,
 				FA5E1A971D6791DE00CF2A9F /* EasyAlertController */,
 			);
 		};
@@ -418,7 +418,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AK.EasyAletrController;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = EasyAlertControllerDemo;
 			};
 			name = Debug;
 		};
@@ -431,7 +431,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AK.EasyAletrController;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = EasyAlertControllerDemo;
 			};
 			name = Release;
 		};
@@ -446,7 +446,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		FAF94DF61D66504200730E47 /* Build configuration list for PBXProject "EasyAletrController" */ = {
+		FAF94DF61D66504200730E47 /* Build configuration list for PBXProject "EasyAlertController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FAF94E0E1D66504300730E47 /* Debug */,
@@ -455,7 +455,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FAF94E101D66504300730E47 /* Build configuration list for PBXNativeTarget "EasyAletrControllerDemo" */ = {
+		FAF94E101D66504300730E47 /* Build configuration list for PBXNativeTarget "EasyAlertControllerDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FAF94E111D66504300730E47 /* Debug */,

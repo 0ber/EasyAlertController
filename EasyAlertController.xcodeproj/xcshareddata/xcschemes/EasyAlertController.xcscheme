@@ -17,7 +17,7 @@
                BlueprintIdentifier = "FA5E1A971D6791DE00CF2A9F"
                BuildableName = "EasyAlertController.framework"
                BlueprintName = "EasyAlertController"
-               ReferencedContainer = "container:EasyAletrController.xcodeproj">
+               ReferencedContainer = "container:EasyAlertController.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,7 +48,7 @@
             BlueprintIdentifier = "FA5E1A971D6791DE00CF2A9F"
             BuildableName = "EasyAlertController.framework"
             BlueprintName = "EasyAlertController"
-            ReferencedContainer = "container:EasyAletrController.xcodeproj">
+            ReferencedContainer = "container:EasyAlertController.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,7 +66,7 @@
             BlueprintIdentifier = "FA5E1A971D6791DE00CF2A9F"
             BuildableName = "EasyAlertController.framework"
             BlueprintName = "EasyAlertController"
-            ReferencedContainer = "container:EasyAletrController.xcodeproj">
+            ReferencedContainer = "container:EasyAlertController.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
