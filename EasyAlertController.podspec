@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'EasyAlertController'
-  s.version      = '0.0.2'
+  s.version      = '0.0.3'
   s.summary      = 'UIAlertCotroller extensions for easy using'
   s.license      = 'MIT'
   s.homepage     = 'https://github.com/ober01/EasyAlertController'
